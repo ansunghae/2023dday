@@ -1,0 +1,14 @@
+@font-face {
+    font-family: WOFF;
+    src: url(../font/NanumSquareNeoTTF-dEb.woff);
+}
+.content {
+    font-family: 'WOFF', serif;
+    
+}
+
+.content span:not(#apm) {
+    color: rgb(255, 255, 255);
+    display: block;
+    /*-webkit-text-stroke: 2px rgb(0, 0, 0);*/
+}
